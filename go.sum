@@ -1,0 +1,8 @@
+github.com/golang/protobuf v1.3.2 h1:6nsPYzhq5kReh6QImI3k5qWzO4PEbvbIW2cwSfR/6xs=
+github.com/golang/protobuf v1.3.2/go.mod h1:6lQm79b+lXiMfvg/cZm0SGofjICqVBUtrP5yJMmIC1U=
+github.com/linj-disanbo/submodule1 v1.0.0 h1:KL+v3q5kfkOF7oBJ8bsbpDHCOxLITv34ixFnHpbMNEU=
+github.com/linj-disanbo/submodule1 v1.0.0/go.mod h1:FOdU4q9Qx9CdGMUo49/EU/ShS/0XcoJTZjpJLWZk+HQ=
+github.com/linj-disanbo/submodule1/tx/sdk v1.0.0 h1:/EOhUNH0eluv7vY6Df1m4Gab/wXquPDRmIeIlR/rgsA=
+github.com/linj-disanbo/submodule1/tx/sdk v1.0.0/go.mod h1:8D5P3Pmn2rRvyDnn+B8r0DZefJJS8IgK9LekQdoDZ04=
+github.com/linj-disanbo/submodule1/tx/types v1.0.0 h1:tXg2ilMT4KYxHrFdA9yFQwVS8azN/FBiVVAlR9wyPWc=
+github.com/linj-disanbo/submodule1/tx/types v1.0.0/go.mod h1:NLZ9WOx64O0aM/CJrNGk8T4Sz6hFEMzTxC7ORYWJeks=
